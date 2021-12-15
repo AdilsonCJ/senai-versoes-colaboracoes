@@ -2,3 +2,5 @@
 Repositório de Versões e Colaborações (SENAI FULL STACK)
 
 readme de exemplo
+
+lembrei do comando: git status
